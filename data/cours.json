@@ -217,7 +217,8 @@
     "nom": "Projet de fin d'études",
     "no": "420-6P8",
     "v": "p",
-    "icons": ["fas fa-users", "fas fa-people-carry"]
+    "icons": ["fas fa-users", "fas fa-people-carry"],
+    "url": "https://info.cegepmontpetit.ca/projet-prog/"
   },
   { "nom": "Stage", "no": "420-6GF", "v": "p", "icons": ["fas fa-user-tie"] }
 ]
